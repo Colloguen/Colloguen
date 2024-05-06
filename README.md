@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Colloguen
+- 👀 We interested in aps on Android and IOS
+- 🌱 We currently learning Java, Kotlin, Objective C and Swift 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach us myrmekitememormg@gmail.com
+- 😄 Pronouns: ...
